@@ -70,10 +70,12 @@ tags:
   - Mission Space
 url: https://raw.githubusercontent.com/api-evangelist/hawkeye-360/refs/heads/main/apis.yml
 created: '2026-05-24'
-modified: '2026-05-24'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.he360.com/newsroom/
+    type: Blog
   - type: DomainSecurity
     url: security/hawkeye-360-domain-security.yml
   - type: Website
