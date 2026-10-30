@@ -1,4 +1,4 @@
-# hawkeye-360
+# HawkEye 360
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-HawkEye 360 — commercial RF geolocation satellite constellation and geospatial intelligence (RFGeo, RFIQ, Mission Space)
+HawkEye 360 is a Herndon, Virginia-based radio frequency (RF) data analytics and geospatial intelligence company that operates the first commercial satellite constellation purpose-built to identify, process, and geolocate a broad range of RF signals from space. Founded in 2015 by Chris DeMay, Charles Clancy, and Bob McGwier, the company flies clusters of three small satellites in formation that use time- and frequency-difference-of-arrival triangulation to pinpoint emitters across VHF through Ku-band. As of 2025, HawkEye 360 has placed 36 Hawk satellites on orbit across 12 operational clusters. Its core products include RFGeo (the underlying RF signal mapping and geolocation data product), RFIQ (its RF intelligence data product recently selected by NASA Commercial LEO programs), and Mission Space, a web-based RF geospatial intelligence analysis platform. The company also offers a Regional Awareness Subscription (RAS) service providing persistent monitoring of high-interest regions such as the Mediterranean, South China Sea, and the Korean Peninsula. In December 2023 HawkEye 360 acquired Maxar Intelligence's RF Solutions business (formerly Aurora Insight), expanding its spectrum-mapping capabilities. Customers are concentrated in defense, intelligence, national security, and maritime domain awareness — including the US Government, allied partners, and foreign military sales (a 2025 FMS to India was approved by the Defense Security Cooperation Agency). HawkEye 360 has filed an S-1 with the SEC for a proposed IPO. There is no public, self-service developer API, SDK, or open-source release; data access is delivered through gated commercial and government contracts via the Mission Space platform and a customer-facing API for ordering and integration of RF analytics into customer systems.
+
+**Areas:** RF Geolocation · Radio Frequency Intelligence · Signals Intelligence · Geospatial Intelligence · Satellite · Smallsat Constellation · Space · Maritime Domain Awareness · Defense · Intelligence · National Security · Spectrum Monitoring
+
+## HawkEye 360 on APIs.io
+
+Everything profiled for HawkEye 360 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hawkeye-360/](https://apis.io/providers/hawkeye-360/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hawkeye 360 Domain Security](https://apis.io/security/hawkeye-360/hawkeye-360-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.he360.com)
+- [Blog](https://www.he360.com/newsroom/)
+
+## API Evangelist rating
+
+**Kin Score 4.0** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hawkeye-360/](https://apis.io/providers/hawkeye-360/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HawkEye 360: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hawkeye-360/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
